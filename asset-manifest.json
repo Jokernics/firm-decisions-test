@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firm-decisions-test/static/css/main.073c9b0a.css",
+    "main.js": "/firm-decisions-test/static/js/main.526de880.js",
+    "static/js/787.84fa2ee9.chunk.js": "/firm-decisions-test/static/js/787.84fa2ee9.chunk.js",
+    "index.html": "/firm-decisions-test/index.html",
+    "main.073c9b0a.css.map": "/firm-decisions-test/static/css/main.073c9b0a.css.map",
+    "main.526de880.js.map": "/firm-decisions-test/static/js/main.526de880.js.map",
+    "787.84fa2ee9.chunk.js.map": "/firm-decisions-test/static/js/787.84fa2ee9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.526de880.js"
+  ]
+}
